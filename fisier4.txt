@@ -1,0 +1,2 @@
+Comanda cu numarul 54 : Clientul cu id 67 a comandat produsul cu id-ul 56avand o cantitate egala cu 26
+
